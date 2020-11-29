@@ -21,6 +21,7 @@ $ make -j$(nproc)<br>
 $ sudo make install<br>
 $ sudo ldconfig<br>
 <br>
- https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md
+https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-nano/ <br>
+ https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md <br>
  <br>
  
