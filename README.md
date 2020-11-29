@@ -19,3 +19,6 @@ $ make -j$(nproc)<br>
 $ sudo make install<br>
 $ sudo ldconfig<br>
 <br>
+ https://github.com/dusty-nv/jetson-inference/blob/master/docs/building-repo-2.md
+ <br>
+ 
